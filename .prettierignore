@@ -1,0 +1,3 @@
+reference/
+pnpm-lock.yaml
+src/**/fixtures/
