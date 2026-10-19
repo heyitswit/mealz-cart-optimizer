@@ -1,0 +1,534 @@
+[
+  {
+    "id": "gratin-de-pâtes-et-viande-hachée",
+    "title": "Gratin de pâtes et viande hachée",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FGratin%20de%20p%C3%A2tes%20et%20viande%20hach%C3%A9e",
+    "ingredients": [
+      {
+        "key": "pasta",
+        "label": "tagliatelles",
+        "amount": 250,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "beef",
+        "label": "bœuf",
+        "amount": 250,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "tomato",
+        "label": "tomates",
+        "amount": 4,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œufs",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 250,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 12,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "oignon",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "hachis-parmentier",
+    "title": "Hachis parmentier",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FHachis%20parmentier",
+    "ingredients": [
+      {
+        "key": "beef",
+        "label": "Bœuf",
+        "amount": 600,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œuf",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "potato",
+        "label": "pomme de terre",
+        "amount": 1000,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "Lait",
+        "amount": 250,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "oignon",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "Beurre",
+        "amount": 100,
+        "unit": "g",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "ficelle-picarde",
+    "title": "Ficelle picarde",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FFicelle%20picarde",
+    "ingredients": [
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 250,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 500,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 30,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "échalotes",
+        "amount": 100,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "cream",
+        "label": "crème fraîche",
+        "amount": 500,
+        "unit": "ml",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "blanquette-de-veau",
+    "title": "Blanquette de veau",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBlanquette%20de%20veau",
+    "ingredients": [
+      {
+        "key": "onion",
+        "label": "oignons",
+        "amount": 100,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "carrot",
+        "label": "carotte",
+        "amount": 3,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "garlic",
+        "label": "ail",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "cream",
+        "label": "crème fraîche",
+        "amount": 100,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œufs",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "boles-de-picolat",
+    "title": "Boles de picolat",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBoles%20de%20picolat",
+    "ingredients": [
+      {
+        "key": "tomato",
+        "label": "tomates",
+        "amount": 500,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œufs",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 30,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "oignons",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "gratin-dauphinois",
+    "title": "Gratin dauphinois",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FGratin%20dauphinois",
+    "ingredients": [
+      {
+        "key": "potato",
+        "label": "pommes de terre",
+        "amount": 1000,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "cream",
+        "label": "crème fraîche",
+        "amount": 250,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 250,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œuf",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "rösti",
+    "title": "Rösti",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FR%C3%B6sti",
+    "ingredients": [
+      {
+        "key": "potato",
+        "label": "pommes de terre",
+        "amount": 200,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "oignon",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "lardon",
+        "label": "lardon",
+        "amount": 20,
+        "unit": "g",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "béchamel",
+    "title": "Béchamel",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FB%C3%A9chamel",
+    "ingredients": [
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 70,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 70,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 1000,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "oignon",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "berliner-pfannkuchen",
+    "title": "Berliner Pfannkuchen",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBerliner%20Pfannkuchen",
+    "ingredients": [
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 500,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 50,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 250,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "jaunes d'œufs",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "bescoins",
+    "title": "Bescoins",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBescoins",
+    "ingredients": [
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 500,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 250,
+        "unit": "ml",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œuf",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 50,
+        "unit": "g",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "boulet-à-la-liégeoise",
+    "title": "Boulet à la liégeoise",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBoulet%20%C3%A0%20la%20li%C3%A9geoise",
+    "ingredients": [
+      {
+        "key": "egg",
+        "label": "œuf",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "onion",
+        "label": "oignon",
+        "amount": 3,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "milk",
+        "label": "lait",
+        "amount": 1000,
+        "unit": "ml",
+        "amountUncertain": true
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 50,
+        "unit": "g",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "bison-à-la-grecque",
+    "title": "Bison à la grecque",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBison%20%C3%A0%20la%20grecque",
+    "ingredients": [
+      {
+        "key": "onion",
+        "label": "oignon",
+        "amount": 2,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "carrot",
+        "label": "carotte",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "garlic",
+        "label": "ail",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "baba-au-rhum",
+    "title": "Baba au rhum",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBaba%20au%20rhum",
+    "ingredients": [
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 200,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œufs",
+        "amount": 4,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 80,
+        "unit": "g",
+        "amountUncertain": false
+      }
+    ]
+  },
+  {
+    "id": "biscuits-à-la-noix-de-coco",
+    "title": "Biscuits à la noix de coco",
+    "servings": 4,
+    "sourceUrl": "https://fr.wikibooks.org/wiki/Livre%20de%20cuisine%2FBiscuits%20%C3%A0%20la%20noix%20de%20coco",
+    "ingredients": [
+      {
+        "key": "flour",
+        "label": "farine",
+        "amount": 175,
+        "unit": "g",
+        "amountUncertain": false
+      },
+      {
+        "key": "butter",
+        "label": "beurre",
+        "amount": 3,
+        "unit": "piece",
+        "amountUncertain": false
+      },
+      {
+        "key": "egg",
+        "label": "œuf",
+        "amount": 1,
+        "unit": "piece",
+        "amountUncertain": false
+      }
+    ]
+  }
+]
